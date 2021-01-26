@@ -7,7 +7,7 @@ You will find the Python Notebook with this information:
 
 
 
-###Question 2: Social Network Analysis with the Facebook100 Dataset
+### Question 2: Social Network Analysis with the Facebook100 Dataset
 The smallest network (Caltech) has 762 nodes in the largest connected component (LCC), and the largest has more than 40000 nodes in the LCC.
 Lets use three networks from the FB100: Caltech (with 762 nodes in the LCC), MIT (which has 6402 nodes in the LCC), and Johns Hopkins (which has 5157 nodes in the LCC).
 
@@ -17,10 +17,10 @@ Lets use three networks from the FB100: Caltech (with 762 nodes in the LCC), MIT
 
 (c) For each network, also draw a scatter plot of the degree versus local clustering coefficient. Based on these calculations as well as your previous ones, are you able to draw any conclusions about any similarities or differences between the tree networks? What other observations can you make?
 
-###Question 3: Social Network Analysis with the Facebook100 Dataset
+### Question 3: Social Network Analysis with the Facebook100 Dataset
 (a) Using the FB100 networks, investigate the assortativity patterns for three vertex attributes: (i) student/faculty status, (ii) major, (iii) vertex degree, and (iiii) dorm. Treat these networks as simple graphs in your analysis.
 
-###Question 4: Find missing labels with the label propagation algorithms
+### Question 4: Find missing labels with the label propagation algorithms
 (a) Read the following document [4]
 (b) Implement in python the label propagation algorithm [4], please consider pyt-
 orch1 and networkx2 for the development of your algorithm.
