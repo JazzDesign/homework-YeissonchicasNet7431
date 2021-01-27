@@ -30,3 +30,6 @@ Lets use three networks from the FB100: Caltech (with 762 nodes in the LCC), MIT
 
 (e) Conclude on the accuracy of the label propagation algorithm for the different labels, could you explain why there is such difference in accuracy between each labels ?
 
+
+
+[Notebook Link Google Colabs](https://colab.research.google.com/drive/1wGo_iApd2ipglidL93-ZwyfgHkCNCFKv?usp=sharing)
